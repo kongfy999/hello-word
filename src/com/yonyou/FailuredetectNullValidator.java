@@ -12,7 +12,7 @@ import org.apache.commons.lang.StringUtils;
  *
  *
  */
-public class FailuredetectNullValidator implements Validator {
+public class FailuredetectNullValidator implements Validator { 
 
 	public ValidationFailure validate(Object obj) {
 
